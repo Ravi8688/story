@@ -1,0 +1,7 @@
+
+git status 
+git diff file name
+git add
+git checkout filename
+git log
+git diff filename
